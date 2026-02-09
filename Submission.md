@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name:Yashraj Chouhan
+- Roll Number: 2024-B-13092005
+- GitHub Username: Jadu07
 
 ---
 
@@ -11,7 +11,7 @@
 
 List each test you wrote and briefly explain **what bug or regression it prevents**.
 
-### 1. Test Name:
+### 1. Test Name: no coupon case
 **What it protects against:**  
 
 ---
